@@ -58,5 +58,4 @@ A machine learning project to predict and classify student performance using var
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/your-username/classification-and-regression-on-student-dataset.git
-   cd classification-and-regression-on-student-dataset
+   git clone https://github.com/koushik0728/classification-and-regression-on-student-dataset.git
